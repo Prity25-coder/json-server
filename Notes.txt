@@ -24,5 +24,6 @@ https://my-json-server.typicode.com/<your-username>/<your-repo>
 - step 6. :-
         - Deployed on github
 
+# Fake eCommerce json data link :- https://fakestoreapi.com/
          
 
