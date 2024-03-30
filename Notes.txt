@@ -1,0 +1,25 @@
+# How to create json server  fake data
+- step 1. :- 
+      - Go to npm json-server then install on your    system json-server.
+
+      command:- npm i json-server
+
+ - step 2. :- 
+        - Create one folder like json-server folder name,(whatever you want, you can write your folder name).
+
+        - then create db.json file inside your folder and create data in json formate inside db.json file.
+
+- step 3. :-
+          - Create repository on your github then setup all process like init, set origin,set branch, add, commit and push.
+
+- step 4. :- 
+          - Pass it to JSON Server CLI command :- npx json-server db.json. ( install your local project terminal).
+
+- step 5. :- 
+        - Get instantly a fake server
+          Visit:-
+https://my-json-server.typicode.com/<your-username>/<your-repo> 
+ to access your server
+
+         
+
