@@ -21,5 +21,8 @@
 https://my-json-server.typicode.com/<your-username>/<your-repo> 
  to access your server
 
+- step 6. :-
+        - Deployed on github
+
          
 
